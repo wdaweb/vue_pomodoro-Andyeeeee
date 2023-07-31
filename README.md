@@ -1,5 +1,5 @@
 04 林駿丞
-作業網址:[ https://andyeeeee.github.io/----/#/](https://github.com/Andyeeeee/----)
+作業網址:https://github.com/Andyeeeee/----
 
 
 
@@ -44,4 +44,4 @@
 若使用 GitHub 網頁進行 commit 會依次數扣分
 
 ## 作業連結
-- [GitHub](https://andyeeeee.github.io/----/#/](https://github.com/Andyeeeee/----)https://github.com/Andyeeeee/----)
+- [GitHub](https://github.com/Andyeeeee/----)
